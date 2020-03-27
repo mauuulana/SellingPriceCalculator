@@ -9,9 +9,7 @@ This is a project my exercise on Swift. Selling Price Calculator is Calculator t
 Xcode 11<br/>
 iOS 13<br/>
 <br/>
-<br/>
 # How to use
 Clone the repository </br>
 Build and Run project</br>
-
-
+<br/>
