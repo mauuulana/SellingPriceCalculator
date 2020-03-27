@@ -8,7 +8,6 @@ This is a project my exercise on Swift. Selling Price Calculator is Calculator t
 # Requirements
 Xcode 11<br/>
 iOS 13<br/>
-Only run on device iPhone 11 or iPhone 11 Pro Max (because it is not currently using auto layout)
 <br/>
 <br/>
 # How to use
